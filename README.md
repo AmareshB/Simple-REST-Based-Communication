@@ -1,7 +1,7 @@
 # Simple-REST-Based-Communication
-This project is an simple example for the exchange of JSON data between Server and client 
+This project is a simple example for the exchange of JSON data between Server and client 
 
-After Forking/downloading this project, run the project using Tomcat Server.
+After Forking/downloading this project, run the project using Web Server.
 Server.java is the server which hosts the functions .
 client.jsp is a Client which calls the functions in Server based on the method of request and type of response .
 
