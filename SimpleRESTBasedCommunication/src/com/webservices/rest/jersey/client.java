@@ -28,7 +28,7 @@ public static void main(String[] args) throws Exception
 	//GET method call
  //System.out.println(webtarget.path("rest").path("server").request().accept(MediaType.TEXT_PLAIN).get(String.class).toString());
 	
-	//POST methid call
+	//POST method call
 	//System.out.println(webtarget.path("rest").path("server/postcheck").request().accept(MediaType.APPLICATION_JSON).get(String.class).toString());
 
 	//Some External URL call
